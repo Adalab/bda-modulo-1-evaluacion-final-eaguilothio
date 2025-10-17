@@ -8,8 +8,8 @@ He abordado cada ejercicio con una metodología clara y accesible para principia
 
 - **Objetivos**: Antes de escribir código, identifico qué se busca resolver.
 - **Parámetros**: Explico qué datos son necesarios.
-- **Código comentado**: Cada bloque incluye anotaciones breves que explican su función.
-- **Conclusiones**: Al final de cada ejercicio, incluyo reflexiones sobre lo aprendido y posibles mejoras.
+- **Código comentado**: Para cada bloque incluyo anotaciones breves.
+- **Conclusiones**: Al final de cada ejercicio, hay reflexiones sobre lo aprendido y posibles mejoras.
 
 ## 💡 Consejos para principiantes (como yo)
 
