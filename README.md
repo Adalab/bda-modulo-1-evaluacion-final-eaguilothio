@@ -7,7 +7,7 @@ Aquí encontrarás un Jupyter Notebook con los ejercicios resueltos, comentados 
 
 1. Lo primero fue clonar el repositorio a mi carpeta usando:
 
-git clone https://github.com/Adalab/bda-modulo-1-evaluacion-final-eaguilothio
+    git clone https://github.com/Adalab/bda-modulo-1-evaluacion-final-eaguilothio
 
 2. Abrí un Jupyter Notebook dentro de esa carpeta. Así tuve mi espacio de trabajo listo.
 
@@ -25,7 +25,7 @@ He abordado cada ejercicio con una metodología clara y accesible para principia
 ## 💡 Consejos para principiantes (como yo)
 
 - **Lee el enunciado completo**: antes de empezar.
-- **Apóyate en la teoría y en la IA**: LA IA como guia, no como sustituto de razonamiento.
+- **Apóyate en la teoría y en la IA**: la IA como guia, no como sustituto de razonamiento.
 - **Comenta tu código**: como si lo explicaras a otra persona.
 - **Descansa cuando te bloquees**: a veces la solución aparece tras un paseo.
 - **Confía en tu progreso**: cada error es una pista, no un fracaso.
