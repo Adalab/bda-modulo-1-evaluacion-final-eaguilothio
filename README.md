@@ -1,6 +1,6 @@
 # 📘 Evaluación Final - Módulo 1 (Adalab)
 
-Este repositorio contiene mi trabajo para la evaluación final del Módulo 1 del curso de **Análisis de Datos con Python**. 
+Este repositorio contiene mi trabajo para la **evaluación final del Módulo 1: Python**. 
 Aquí encontrarás un Jupyter Notebook con los ejercicios resueltos, comentados y explicados paso a paso.
 
 ## 🚀 Cómo he empezado
