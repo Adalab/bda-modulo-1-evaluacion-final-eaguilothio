@@ -1,25 +1,31 @@
-# Evaluación final - Módulo 1
+# 📘 Evaluación Final - Módulo 1 (Adalab)
 
-## Instrucciones
+Este repositorio contiene mi trabajo para la evaluación final del Módulo 1 del curso de **Análisis de Datos con Python**. Aquí encontrarás un Jupyter Notebook con los ejercicios resueltos, comentados y explicados paso a paso.
 
-Antes de empezar, hay que **crear un nuevo repositorio desde GitHub Classroom** a partir de un enlace.  
+## 🧠 Enfoque de trabajo
 
-Una vez creado, hay que **clonarlo en nuestro ordenador** con el siguiente comando:
+He abordado cada ejercicio con una metodología clara y accesible para principiantes:
+
+- **Objetivos**: Antes de escribir código, identifico qué se busca resolver.
+- **Parámetros**: Explico qué datos son necesarios.
+- **Código comentado**: Cada bloque incluye anotaciones breves que explican su función.
+- **Conclusiones**: Al final de cada ejercicio, incluyo reflexiones sobre lo aprendido y posibles mejoras.
+
+## 💡 Consejos para principiantes (como yo)
+
+- **Lee el enunciado completo**: antes de empezar.
+- **Apóyate en la teoría y en la IA**: LA IA como guia, no como sustituto de razonamiento.
+- **Comenta tu código**: como si lo explicaras a otra persona.
+- **Descansa cuando te bloquees**: a veces la solución aparece tras un paseo.
+- **Confía en tu progreso**: cada error es una pista, no un fracaso.
+
+## 🚀 Cómo empezar
+
+1. Clona el repositorio en tu ordenador:
 
 git clone https://github.com/Adalab/bda-modulo-1-evaluacion-final-eaguilothio
 
-En la carpeta creada, debemos crear un nuevo Jupyter Notebook y empezar a trabajar en los ejercicios.
+2. Abre un Jupyter Notebook y haz los ejercicios.
 
-💡 Consejos para hacer los ejercicios sin morir en el intento
-
-🧩 Leer el enunciado completo antes de empezar. Evitar lanzarme al código sin entender el objetivo.
-
-📚 Apoyarme en la teoría. Revisar apuntes y ejercicios del módulo.
-
-💬 Comentar el código. Me ayudará a entender qué hace cada parte (¡y a Yanelis también!). 
-
-🤖 Apoyarme en la IA, pero sin copiar, ni dejar de entender. Usar la IA como guía o ayuda para aprender, no como sustituto de razonamiento.
-
-🧘‍♀️ Descansar. A veces la mejor solución aparece después de un café o un paseo corto.
-
-🚀 Confía en el progreso. 
+## 🧘‍♀️ Mantra
+Mi mantra de aprendizaje: “Primero entiende, luego avanza.”
