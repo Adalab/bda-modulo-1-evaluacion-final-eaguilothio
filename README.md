@@ -2,7 +2,7 @@
 
 Este repositorio contiene mi trabajo para la **evaluación final del Módulo 1: Python**. 
 
-Aquí encontrarás un espacio con ejercicios resueltos, comentados y explicados paso a paso.
+Aquí encontrarás un espacio con ejercicios resueltos, comentados y explicados paso a paso pensados para consolidar los fundamentos básicos del lenguaje Python.
 
 ## 🚀 Inicio
 
