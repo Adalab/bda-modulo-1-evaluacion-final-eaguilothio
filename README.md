@@ -16,21 +16,11 @@ Tecleé con la esperanza de que, entre errores y aciertos, algo se revelara.
 
 ## ⚙️ Metodología de trabajo
 
-    🔍 Análisis previo: Cada ejercicio comienza con la identificación clara de objetivos y datos necesarios (parámetros).
+    🎯 Objetivos definidos: Cada ejercicio comienza con la identificación clara de objetivos.
 
-    🧠 Diseño lógico: Antes de codificar, defino la lógica en lenguaje natural para asegurar comprensión.
+    📥 Parámetros explícitos: Identifico qué datos necesita cada función.
 
-    🧪 Pruebas: Valido los resultados esperados mediante casos de prueba y observación de salidas.
-
-    🗣️ Documentación didáctica: Cada bloque de código incluye comentarios explicativos que contextualizan decisiones.
-
-## 🧠 Enfoque de trabajo
-
-    🎯 Objetivos definidos: Antes de escribir código, analizo qué problema se busca resolver y qué resultado se espera.
-
-    📥 Parámetros explícitos: Identifico qué datos necesita cada función y cómo deben ser estructurados.
-
-    🔄 Lógica pensada: Diseño la solución paso a paso, anticipando condiciones, bucles y validaciones.
+     🧠 Diseño lógico: Antes de codificar, defino la lógica en lenguaje natural para asegurar comprensión.
 
     💬 Código comentado: Cada bloque incluye anotaciones breves que explican el propósito y el flujo de ejecución.
 
@@ -49,5 +39,5 @@ Tecleé con la esperanza de que, entre errores y aciertos, algo se revelara.
 ## 🐌⚡ Mantra personal
 
  Primero entiendo. Luego avanzo. A veces como un rayo, otras como un caracol con dudas existenciales. Pero avanzo. 
- 
+
  Porque el código más sólido no nace de la prisa, sino de quien insiste, prueba, corrige y vuelve a intentarlo, sin rendirse.
