@@ -6,13 +6,17 @@ Aquí encontrarás un Jupyter Notebook con los ejercicios resueltos, comentados 
 
 ## 🚀 Inicio
 
-Cloné el repositorio en mi ordenador, abrí un Jupyter Notebook y miré los ejercicios. 
+Cloné el repositorio en mi ordenador y creé un Jupyter Notebook. 
+
+Vacío. Como una página en blanco que espera su historia. 
 
 Me quedé un segundo en silencio, respiré hondo y me dije: “Esto no se va a resolver solo, querida: ¡Manos a la obra!” 💪 
 
 Con más ilusión que certezas, empecé a pensar cómo abordar cada reto. 
 
-Tecleé con la esperanza de que, entre errores y aciertos, algo se revelara. 
+Tecleé los ejercicios con la esperanza de que, entre errores y aciertos, algo se revelara. 
+
+Porque el aprendizaje no siempre llega con respuestas claras, sino con la valentía de teclear la primera línea sin saber aún a dónde lleva.
 
 ## ⚙️ Metodología de trabajo
 
@@ -38,6 +42,8 @@ Tecleé con la esperanza de que, entre errores y aciertos, algo se revelara.
 
 ## 🐌⚡ Mantra personal
 
- Primero entiendo. Luego avanzo. A veces como un rayo, otras como un caracol con dudas existenciales. Pero avanzo. 
+ Primero entiendo. Luego avanzo. 
+ 
+ A veces como un rayo, otras como un caracol con dudas existenciales. Pero avanzo. 
 
  Porque el código más sólido no nace de la prisa, sino de quien insiste, prueba, corrige y vuelve a intentarlo, sin rendirse.
