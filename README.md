@@ -6,13 +6,10 @@ Aquí encontrarás un Jupyter Notebook con los ejercicios resueltos, comentados 
 
 ## 🚀 Inicio
 
-1. Lo primero fue clonar el repositorio a mi carpeta usando:
-
-    git clone https://github.com/Adalab/bda-modulo-1-evaluacion-final-eaguilothio
-
-2. Abrí un Jupyter Notebook dentro de esa carpeta. Así tuve mi espacio de trabajo listo.
-
-3. Ya con todo montado, me puse a resolver los ejercicios que pedía la evaluación. ¡Manos a la obra! 💪
+Cloné el repositorio, abrí el Jupyter Notebook en mi ordenador y miré los ejercicios. 
+Me quedé un segundo en silencio, respiré hondo y me dije: “Esto no se va a resolver solo, querida: ¡Manos a la obra!” 💪 
+Con más ilusión que certezas, empecé a pensar cómo abordar cada reto. 
+Tecleé con la esperanza de que, entre errores y aciertos, algo se revelara. 
 
 ## ⚙️ Metodología de trabajo
 
@@ -46,6 +43,7 @@ Aquí encontrarás un Jupyter Notebook con los ejercicios resueltos, comentados 
 
     🌱 Confía en tu progreso: cada error es una señal de que estás aprendiendo activamente.
 
-## 🧘‍♀️ Mantra personal
+## 🐌⚡ Mantra personal
 
-    “Primero entiendo. Luego avanzo. A veces como un rayo, otras como un caracol con dudas existenciales. Pero avanzo. Porque el código más sólido se escribe con tiempo, no con prisa.”
+ Primero entiendo. Luego avanzo. A veces como un rayo, otras como un caracol con dudas existenciales. Pero avanzo. 
+ Porque el código más sólido no nace de la prisa, sino de quien insiste, prueba, corrige y vuelve a intentarlo, sin rendirse.
