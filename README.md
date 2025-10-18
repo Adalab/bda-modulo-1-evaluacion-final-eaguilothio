@@ -7,8 +7,11 @@ Aquí encontrarás un Jupyter Notebook con los ejercicios resueltos, comentados 
 ## 🚀 Inicio
 
 Cloné el repositorio, abrí el Jupyter Notebook en mi ordenador y miré los ejercicios. 
+
 Me quedé un segundo en silencio, respiré hondo y me dije: “Esto no se va a resolver solo, querida: ¡Manos a la obra!” 💪 
+
 Con más ilusión que certezas, empecé a pensar cómo abordar cada reto. 
+
 Tecleé con la esperanza de que, entre errores y aciertos, algo se revelara. 
 
 ## ⚙️ Metodología de trabajo
@@ -46,4 +49,5 @@ Tecleé con la esperanza de que, entre errores y aciertos, algo se revelara.
 ## 🐌⚡ Mantra personal
 
  Primero entiendo. Luego avanzo. A veces como un rayo, otras como un caracol con dudas existenciales. Pero avanzo. 
+ 
  Porque el código más sólido no nace de la prisa, sino de quien insiste, prueba, corrige y vuelve a intentarlo, sin rendirse.
