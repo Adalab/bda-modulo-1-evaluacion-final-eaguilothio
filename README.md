@@ -10,13 +10,11 @@ Cloné el repositorio en mi ordenador y creé un Jupyter Notebook.
 
 Vacío. Como una página en blanco que espera su historia. 
 
-Me quedé un segundo en silencio, respiré hondo y me dije: “Esto no se va a resolver solo, querida: ¡Manos a la obra!” 💪 
+Respiré hondo y me dije: “Esto no se va a resolver solo, querida: ¡Manos a la obra!” 💪 
 
 Con más ilusión que certezas, empecé a pensar cómo abordar cada reto. 
 
-Tecleé los ejercicios con la esperanza de que, entre errores y aciertos, algo se revelara. 
-
-Porque el aprendizaje no siempre llega con respuestas claras, sino con la valentía de teclear la primera línea sin saber aún a dónde lleva.
+Tecleé con la esperanza de que, entre errores y aciertos, algo se revelara. 
 
 ## ⚙️ Metodología de trabajo
 
