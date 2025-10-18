@@ -4,7 +4,7 @@ Este repositorio contiene mi trabajo para la **evaluación final del Módulo 1: 
 
 Aquí encontrarás un Jupyter Notebook con los ejercicios resueltos, comentados y explicados paso a paso.
 
-## 🚀 Cómo he empezado
+## 🚀 Inicio
 
 1. Lo primero fue clonar el repositorio a mi carpeta usando:
 
@@ -14,20 +14,38 @@ Aquí encontrarás un Jupyter Notebook con los ejercicios resueltos, comentados 
 
 3. Ya con todo montado, me puse a resolver los ejercicios que pedía la evaluación. ¡Manos a la obra! 💪
 
-## 🧠 Enfoque de trabajo 
+## ⚙️ Metodología de trabajo
 
-- **Objetivos**: Antes de escribir código, identifico qué se busca resolver.
-- **Parámetros**: Explico qué datos son necesarios.
-- **Lógica**: Busco la lógica del ejercicio. 
-- **Código comentado**: Para cada bloque incluyo anotaciones breves.
+    🔍 Análisis previo: Cada ejercicio comienza con la identificación clara de objetivos y datos necesarios (parámetros).
+
+    🧠 Diseño lógico: Antes de codificar, defino la lógica en lenguaje natural para asegurar comprensión.
+
+    🧪 Pruebas: Valido los resultados esperados mediante casos de prueba y observación de salidas.
+
+    🗣️ Documentación didáctica: Cada bloque de código incluye comentarios explicativos que contextualizan decisiones.
+
+## 🧠 Enfoque de trabajo
+
+    🎯 Objetivos definidos: Antes de escribir código, analizo qué problema se busca resolver y qué resultado se espera.
+
+    📥 Parámetros explícitos: Identifico qué datos necesita cada función y cómo deben ser estructurados.
+
+    🔄 Lógica pensada: Diseño la solución paso a paso, anticipando condiciones, bucles y validaciones.
+
+    💬 Código comentado: Cada bloque incluye anotaciones breves que explican el propósito y el flujo de ejecución.
 
 ## 💡 Consejos para principiantes
 
-- **Lee el enunciado completo**: antes de empezar.
-- **Apóyate en la teoría y en la IA**: Chatgpt como guia, no como sustituto de razonamiento.
-- **Comenta tu código**: explica el proceso en palabras, no solo en código.
-- **Descansa cuando te bloquees**: a veces la solución aparece tras un paseo.
-- **Confía en tu progreso**: cada error es un aprendizaje, no un fracaso.
+    📖 Lee el enunciado completo antes de empezar: muchas pistas están en los detalles.
 
-## 🧘‍♀️ Mantra
-Mi mantra de aprendizaje: “Primero entiende, luego avanza.”
+    🧠 Apóyate en la teoría y en la IA como guía, no como sustituto del razonamiento.
+
+    🗣️ Comenta tu código: explicar lo que haces te ayuda a detectar errores y consolidar aprendizajes.
+
+    🧘‍♀️ Descansa cuando te bloquees: la claridad suele llegar tras una pausa.
+
+    🌱 Confía en tu progreso: cada error es una señal de que estás aprendiendo activamente.
+
+## 🧘‍♀️ Mantra personal
+
+    “Primero entiendo. Luego avanzo. A veces como un rayo, otras como un caracol con dudas existenciales. Pero avanzo. Porque el código más sólido se escribe con tiempo, no con prisa.”
