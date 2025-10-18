@@ -6,7 +6,7 @@ Aquí encontrarás un Jupyter Notebook con los ejercicios resueltos, comentados 
 
 ## 🚀 Inicio
 
-Cloné el repositorio, abrí el Jupyter Notebook en mi ordenador y miré los ejercicios. 
+Cloné el repositorio en mi ordenador, abrí un Jupyter Notebook y miré los ejercicios. 
 
 Me quedé un segundo en silencio, respiré hondo y me dije: “Esto no se va a resolver solo, querida: ¡Manos a la obra!” 💪 
 
