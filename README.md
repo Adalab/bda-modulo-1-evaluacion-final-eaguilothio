@@ -38,9 +38,7 @@ Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
  2. ▶️ Inicio del Proyecto 
 
     - Clonar el repositorio Abre tu terminal y ejecuta:
-    git clone <URL-del-repositorio> 
-    
-    💡 Si usas Visual Studio Code, puedes hacer clic en "Open Integrated Terminal" desde la carpeta del repositorio para trabajar directamente desde ahí.
+    git clone <URL-del-repositorio> 💡 Si usas Visual Studio Code, puedes hacer clic en "Open Integrated Terminal" desde la carpeta del repositorio para trabajar directamente desde ahí.
 
     - Iniciar Jupyter Notebook Ejecuta el siguiente comando:
     jupyter notebook
@@ -55,7 +53,7 @@ Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
         2. git commit -m "mensaje" ( permite guardar los cambios con un mensaje para describir qué hicimos)
         3. git push ( para subir los cambios en Github). 
 
-4. 🧩Requisitos adicionales 
+4. 🧩 Requisitos adicionales 
 
     - Debes tener una cuenta en Github. 
 
