@@ -75,6 +75,8 @@ Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
 
     🗣️ Comenta tu código: explicar lo que haces te ayuda a detectar errores y consolidar aprendizajes.
 
+    ♻️ ¡Sé eficiente! Usa el código que ya funciona, ¡No dupliques el esfuerzo de reescribirlo!
+
     🧘‍♀️ Descansa cuando te bloquees: la claridad suele llegar tras una pausa.
 
     🌱 Confía en tu progreso: cada error es una señal de que estás aprendiendo activamente.
