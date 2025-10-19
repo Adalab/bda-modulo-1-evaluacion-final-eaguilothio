@@ -32,18 +32,14 @@ Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
 
         Nota Importante (Windows): Asegúrate de marcar la casilla "Add python.exe to PATH" durante la instalación para poder ejecutar los comandos de Python globalmente desde cualquier terminal.
 
-    - 📝 Instalar Jupyter. Abre tu terminal (Símbolo del sistema, PowerShell o Git Bash) y ejecuta el siguiente comando:
-    pip install notebook
+    - 📝 Instalar Jupyter. Abre tu terminal (Símbolo del sistema, PowerShell o Git Bash) y ejecuta el siguiente comando: pip install notebook
 
  2. ▶️ Inicio del Proyecto 
 
     - Clonar el repositorio Abre tu terminal y ejecuta:
     git clone <URL-del-repositorio> 💡 Si usas Visual Studio Code, puedes hacer clic en "Open Integrated Terminal" desde la carpeta del repositorio para trabajar directamente desde ahí.
 
-    - Iniciar Jupyter Notebook Ejecuta el siguiente comando:
-    jupyter notebook
-
-    Tu navegador se abrirá automáticamente. Desde ahí, abre el archivo .ipynb del proyecto para comenzar a trabajar.
+    - Iniciar Jupyter Notebook Ejecuta el siguiente comando: jupyter notebook. Tu navegador se abrirá automáticamente. Desde ahí, abre el archivo .ipynb del proyecto para comenzar a trabajar.
 
 3. 💾 Guardar cambios en el repositorio 
 
@@ -71,10 +67,10 @@ Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
 
     El proyecto se puede estructurar en dos fases clave, diseñadas para garantizar la claridad y minimizar la aparición de problemas:
 
-    Fase de Análisis: Antes de que los dedos toquen el teclado, la misión es clara: comprender cada ejercicio en su totalidad (objetivos, datos requeridos y la lógica subyacente). 
+    - Fase de Análisis: Antes de que los dedos toquen el teclado, la misión es clara: comprender cada ejercicio en su totalidad (objetivos, datos requeridos y la lógica subyacente). 
     No queremos construir el código a ciegas, ¿verdad?
 
-    Fase de Implementación: Una vez hemos entendido ciertos aspectos en la fase anterior, podemos escribir código. Acepto que la solución definitiva surge inevitablemente de una gran variedad de errores y aciertos, un proceso que requiere tiempo y dedicación.
+    - Fase de Implementación: Una vez hemos entendido ciertos aspectos en la fase anterior, podemos escribir código. Acepto que la solución definitiva surge inevitablemente de una gran variedad de errores y aciertos, un proceso que requiere tiempo y dedicación.
 
 ## 💡 Consejos para principiantes
 
