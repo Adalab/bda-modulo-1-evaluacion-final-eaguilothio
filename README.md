@@ -8,19 +8,19 @@ Aquí encontrarás un espacio con ejercicios resueltos, comentados y explicados 
 
 La idea es crear un conjunto de funciones en Python para saber: qué productos hay, quiénes son los clientes y cuánto se ha vendido en total. Para eso usamos:
 
-    - Una lista de diccionarios para guardar los productos del inventario.
+    📦 Una lista de diccionarios para guardar los productos del inventario.
 
-    - Un diccionario para registrar a los clientes.
+    📓 Un diccionario para registrar a los clientes.
 
-    - Una variable tipo float para sumar las ventas totales.
+    💰 Una variable tipo float para sumar las ventas totales.
 
 💡 ¿Qué se puede hacer con estas funciones?
 
-    - Gestionar productos: agregar nuevos, ver los que hay, buscar por nombre, actualizar el stock y eliminar si ya no se venden.
+    📊 📦 Gestionar productos: agregar nuevos, ver los que hay, buscar por nombre, actualizar el stock y eliminar si ya no se venden.
 
-    - Calcular el valor total del inventario (lo que valen todos los productos juntos).
+    🧮 💲 Calcular el valor total del inventario (lo que valen todos los productos juntos).
 
-    - Simular una compra: el cliente elige productos, se actualiza el inventario y se calcula cuánto cuesta todo.
+   🛒 ➡️ 🧾 Simular una compra: el cliente elige productos, se actualiza el inventario y se calcula cuánto cuesta todo.
 
 ## 🏁 Cómo Empezar
 
@@ -67,10 +67,10 @@ Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
 
     El proyecto se puede estructurar en dos fases clave, diseñadas para garantizar la claridad y minimizar la aparición de problemas:
 
-    - Fase de Análisis: Antes de que los dedos toquen el teclado, la misión es clara: comprender cada ejercicio en su totalidad (objetivos, datos requeridos y la lógica subyacente). 
+    🔍 Fase de Análisis: Antes de que los dedos toquen el teclado, la misión es clara: comprender cada ejercicio en su totalidad (objetivos, datos requeridos y la lógica subyacente). 
     No queremos construir el código a ciegas, ¿verdad?
 
-    - Fase de Implementación: Una vez hemos entendido ciertos aspectos en la fase anterior, podemos escribir código. Acepto que la solución definitiva surge inevitablemente de una gran variedad de errores y aciertos, un proceso que requiere tiempo y dedicación.
+    ⚙️ Fase de Implementación: Una vez hemos entendido ciertos aspectos en la fase anterior, podemos escribir código. Acepto que la solución definitiva surge inevitablemente de una gran variedad de errores y aciertos, un proceso que requiere tiempo y dedicación.
 
 ## 💡 Consejos para principiantes
 
