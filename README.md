@@ -24,7 +24,7 @@ La idea es crear un conjunto de funciones en Python para saber: qué productos h
 
 ## 🏁 Cómo Empezar
 
-Para trabajar con este proyecto, necesitas Python 3 y Jupyter Notebook.
+Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
 
 1. Configuración del Entorno 🛠️
 
@@ -49,10 +49,11 @@ Para trabajar con este proyecto, necesitas Python 3 y Jupyter Notebook.
 
 3. Guardar cambios en el repositorio 💾
 
-    - Para guardar tu trabajo correctamente en GitHub, asegúrate de estar ubicado dentro de la carpeta del repositorio clonado (no en una carpeta vacía creada manualmente). En la terminal, ejecuta:
-        git add -A
-        git commit -m "cambios"
-        git push
+    - Para guardar tu trabajo correctamente en GitHub, asegúrate de estar ubicado dentro de la carpeta del repositorio clonado (no en una carpeta vacía creada localmente). 
+    - En la terminal, ejecuta 3 comandos: 
+        1. git add -A ( añade los cambios)
+        2. git commit -m "mensaje" ( permite guardar los cambios con un mensaje para describir qué hicimos)
+        3. git push ( para subir los cambios en Github). 
 
 4. Requisitos adicionales 🧩
 
