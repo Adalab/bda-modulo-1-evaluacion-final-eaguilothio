@@ -28,39 +28,37 @@ Para trabajar con este proyecto, necesitas Python 3 y Jupyter Notebook.
 
 1. Configuración del Entorno 🛠️
 
-🔹 Instalar Python 🐍 Descárgalo desde la web oficial de Python.
+    🔹 Instalar Python 🐍 Descárgalo desde la web oficial de Python.
 
         Nota Importante (Windows): Asegúrate de marcar la casilla "Add python.exe to PATH" durante la instalación para poder ejecutar los comandos de Python globalmente desde cualquier terminal.
 
-🔹 Instalar Jupyter 📝 Abre tu terminal (Símbolo del sistema, PowerShell o Git Bash) y ejecuta el siguiente comando:
+    🔹 Instalar Jupyter 📝 Abre tu terminal (Símbolo del sistema, PowerShell o Git Bash) y ejecuta el siguiente comando:
     pip install notebook
 
  2. Inicio del Proyecto ▶️
 
-🔹 Clonar el repositorio Abre tu terminal y ejecuta:
-git clone <URL-del-repositorio>
+    🔹 Clonar el repositorio Abre tu terminal y ejecuta:
+    git clone <URL-del-repositorio>
 
-💡 Si usas Visual Studio Code, puedes hacer clic en "Open Integrated Terminal" desde la carpeta del repositorio para trabajar directamente desde ahí.
+    💡 Si usas Visual Studio Code, puedes hacer clic en "Open Integrated Terminal" desde la carpeta del repositorio para trabajar directamente desde ahí.
 
-🔹 Iniciar Jupyter Notebook Ejecuta el siguiente comando:
-jupyter notebook
+    🔹 Iniciar Jupyter Notebook Ejecuta el siguiente comando:
+    jupyter notebook
 
-Tu navegador se abrirá automáticamente. Desde ahí, abre el archivo .ipynb del proyecto para comenzar a trabajar.
+    Tu navegador se abrirá automáticamente. Desde ahí, abre el archivo .ipynb del proyecto para comenzar a trabajar.
 
 3. Guardar cambios en el repositorio 💾
 
-Para guardar tu trabajo correctamente en GitHub, asegúrate de estar ubicado dentro de la carpeta del repositorio clonado (no en una carpeta vacía creada manualmente).
+    🔹 Para guardar tu trabajo correctamente en GitHub, asegúrate de estar ubicado dentro de la carpeta del repositorio clonado (no en una carpeta vacía creada manualmente).
 
-En la terminal, ejecuta:
-
-git add -A
-git commit -m "cambios"
-git push
+    En la terminal, ejecuta:
+        git add -A
+        git commit -m "cambios"
+        git push
 
 4. Requisitos adicionales 🧩
 
 🔹 Debes tener una cuenta en Github. 
-
 
 ## ⚙️ Metodología de trabajo en Jupyter notebook
 
@@ -86,8 +84,10 @@ git push
 
 ## 💪 Mi filosofía de principiante: Entender para avanzar
 
-Con más ilusión que certezas, mi proceso es claro:
+    Con más ilusión que certezas, mi proceso es claro:
 
-    Primero Entiendo: Antes de escribir una línea, me sumerjo en el problema. La comprensión profunda es la base de todo.
+    Primero Entiendo: Antes de escribir una línea, me sumerjo en el problema. 
+    
+    La comprensión profunda es la base de todo.
 
     Luego Avanzo: Empiezo a teclear, sabiendo que el camino estará lleno de errores y aciertos.
