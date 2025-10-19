@@ -26,26 +26,28 @@ La idea es crear un conjunto de funciones en Python para saber: qué productos h
 
 Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
 
-1. Configuración del Entorno 🛠️
+1. 🛠️ Configuración del Entorno 
 
-    - Instalar Python 🐍 Descárgalo desde la web oficial de Python.
+    - 🐍 Instalar Python. Descárgalo desde la web oficial de Python.
 
         Nota Importante (Windows): Asegúrate de marcar la casilla "Add python.exe to PATH" durante la instalación para poder ejecutar los comandos de Python globalmente desde cualquier terminal.
 
-    - Instalar Jupyter 📝 Abre tu terminal (Símbolo del sistema, PowerShell o Git Bash) y ejecuta el siguiente comando:
+    - 📝 Instalar Jupyter. Abre tu terminal (Símbolo del sistema, PowerShell o Git Bash) y ejecuta el siguiente comando:
     pip install notebook
 
- 2. Inicio del Proyecto ▶️
+ 2. ▶️ Inicio del Proyecto 
 
     - Clonar el repositorio Abre tu terminal y ejecuta:
-    git clone <URL-del-repositorio> 💡 Si usas Visual Studio Code, puedes hacer clic en "Open Integrated Terminal" desde la carpeta del repositorio para trabajar directamente desde ahí.
+    git clone <URL-del-repositorio> 
+    
+    💡 Si usas Visual Studio Code, puedes hacer clic en "Open Integrated Terminal" desde la carpeta del repositorio para trabajar directamente desde ahí.
 
     - Iniciar Jupyter Notebook Ejecuta el siguiente comando:
     jupyter notebook
 
     Tu navegador se abrirá automáticamente. Desde ahí, abre el archivo .ipynb del proyecto para comenzar a trabajar.
 
-3. Guardar cambios en el repositorio 💾
+3. 💾 Guardar cambios en el repositorio 
 
     - Para guardar tu trabajo correctamente en GitHub, asegúrate de estar ubicado dentro de la carpeta del repositorio clonado (no en una carpeta vacía creada localmente). 
     - En la terminal, ejecuta 3 comandos: 
@@ -53,7 +55,7 @@ Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
         2. git commit -m "mensaje" ( permite guardar los cambios con un mensaje para describir qué hicimos)
         3. git push ( para subir los cambios en Github). 
 
-4. Requisitos adicionales 🧩
+4. 🧩Requisitos adicionales 
 
     - Debes tener una cuenta en Github. 
 
