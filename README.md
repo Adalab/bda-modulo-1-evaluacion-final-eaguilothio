@@ -49,9 +49,7 @@ Para trabajar con este proyecto, necesitas Python 3 y Jupyter Notebook.
 
 3. Guardar cambios en el repositorio 💾
 
-    - Para guardar tu trabajo correctamente en GitHub, asegúrate de estar ubicado dentro de la carpeta del repositorio clonado (no en una carpeta vacía creada manualmente).
-
-    En la terminal, ejecuta:
+    - Para guardar tu trabajo correctamente en GitHub, asegúrate de estar ubicado dentro de la carpeta del repositorio clonado (no en una carpeta vacía creada manualmente). En la terminal, ejecuta:
         git add -A
         git commit -m "cambios"
         git push
@@ -82,7 +80,7 @@ Para trabajar con este proyecto, necesitas Python 3 y Jupyter Notebook.
 
     🌱 Confía en tu progreso: cada error es una señal de que estás aprendiendo activamente.
 
-## 💪 Mi filosofía de principiante: Entender para avanzar
+## 💪 Mi filosofía de principiante: 
 
     Mi proceso de trabajo se estructura en dos fases clave, diseñadas para garantizar la claridad y minimizar los problemas:
 
