@@ -4,7 +4,7 @@ Este repositorio contiene mi trabajo para la **evaluación final del Módulo 1: 
 
 Aquí encontrarás un espacio con ejercicios resueltos, comentados y explicados paso a paso pensados para consolidar los fundamentos básicos del lenguaje Python.
 
-## 🚀 Descripción del Proyecto
+## 🚀 Descripción del proyecto
 
 La idea es crear un conjunto de funciones en Python para saber: qué productos hay, quiénes son los clientes y cuánto se ha vendido en total. Para eso usamos:
 
@@ -57,7 +57,7 @@ Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
 
     - Debes tener una cuenta en Github. 
 
-## ⚙️ Metodología de trabajo en Jupyter notebook
+## ⚙️ Metodología de trabajo 
 
     🎯 Objetivos definidos: Cada ejercicio comienza con la identificación clara de objetivos.
 
@@ -66,6 +66,15 @@ Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
     🧠 Diseño lógico: Antes de codificar, defino la lógica en lenguaje natural para asegurar comprensión.
 
     💬 Código comentado: Cada bloque incluye anotaciones breves que explican el propósito y el flujo de ejecución.
+
+## 💪 Fases del proyecto
+
+    El proyecto se puede estructurar en dos fases clave, diseñadas para garantizar la claridad y minimizar la aparición de problemas:
+
+    Fase de Análisis: Antes de que los dedos toquen el teclado, la misión es clara: comprender cada ejercicio en su totalidad (objetivos, datos requeridos y la lógica subyacente). 
+    No queremos construir el código a ciegas, ¿verdad?
+
+    Fase de Implementación: Una vez hemos entendido ciertos aspectos en la fase anterior, podemos escribir código. Acepto que la solución definitiva surge inevitablemente de una gran variedad de errores y aciertos, un proceso que requiere tiempo y dedicación.
 
 ## 💡 Consejos para principiantes
 
@@ -80,12 +89,3 @@ Para trabajar con este proyecto, necesitas Python y Jupyter Notebook.
     🧘‍♀️ Descansa cuando te bloquees: la claridad suele llegar tras una pausa.
 
     🌱 Confía en tu progreso: cada error es una señal de que estás aprendiendo activamente.
-
-## 💪 Mi filosofía de principiante: 
-
-    Mi proceso de trabajo se estructura en dos fases clave, diseñadas para garantizar la claridad y minimizar los problemas:
-
-    Fase de Análisis: Antes de que mis dedos toquen el teclado, la misión es clara: comprender cada ejercicio en su totalidad (objetivos, datos requeridos y la lógica subyacente). 
-    No queremos construir el código a ciegas, ¿verdad?
-
-    Fase de Implementación: Una vez hemos entendido ciertos aspectos en la fase anterior, procedo a la codificación. Acepto que la solución definitiva surge inevitablemente de una gran variedad de errores y aciertos, un proceso que requiere tiempo y dedicación.
