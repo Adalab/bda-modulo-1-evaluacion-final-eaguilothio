@@ -58,7 +58,7 @@ Para trabajar con este proyecto, necesitas Python 3 y Jupyter Notebook.
 
 4. Requisitos adicionales 🧩
 
-🔹 Debes tener una cuenta en Github. 
+    🔹 Debes tener una cuenta en Github. 
 
 ## ⚙️ Metodología de trabajo en Jupyter notebook
 
@@ -66,7 +66,7 @@ Para trabajar con este proyecto, necesitas Python 3 y Jupyter Notebook.
 
     📥 Parámetros explícitos: Identifico qué datos necesita cada función.
 
-     🧠 Diseño lógico: Antes de codificar, defino la lógica en lenguaje natural para asegurar comprensión.
+    🧠 Diseño lógico: Antes de codificar, defino la lógica en lenguaje natural para asegurar comprensión.
 
     💬 Código comentado: Cada bloque incluye anotaciones breves que explican el propósito y el flujo de ejecución.
 
